@@ -10,4 +10,3 @@ namespace Core.Utilities.IoC
         void Load(IServiceCollection serviceCollection);
     }
 }
- //bitti :))) çalışır mı sence

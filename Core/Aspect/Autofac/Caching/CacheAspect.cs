@@ -5,8 +5,8 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using Core.Utilities.Interceptors;
-using Core.Caching;
 using System.Linq;
+using Core.CrossCuttingConcerns.Caching;
 
 namespace Core.Aspect.Autofac.Caching
 {
